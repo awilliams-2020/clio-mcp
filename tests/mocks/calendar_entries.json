@@ -1,0 +1,97 @@
+{
+  "data": [
+    {
+      "id": "cal1",
+      "matter_id": "12345",
+      "subject": "Court Hearing - Motion to Dismiss",
+      "title": "Court Hearing - Motion to Dismiss",
+      "start_at": "2024-03-15T10:00:00Z",
+      "due_date": "2024-03-15",
+      "assigned_to": {
+        "id": "user1",
+        "name": "Attorney Smith"
+      },
+      "user": {
+        "id": "user1",
+        "name": "Attorney Smith"
+      },
+      "type": "Court Hearing"
+    },
+    {
+      "id": "cal2",
+      "matter_id": "12345",
+      "subject": "Client Meeting - Settlement Discussion",
+      "title": "Client Meeting - Settlement Discussion",
+      "start_at": "2024-02-20T14:00:00Z",
+      "due_date": "2024-02-20",
+      "assigned_to": {
+        "id": "user1",
+        "name": "Attorney Smith"
+      },
+      "user": {
+        "id": "user1",
+        "name": "Attorney Smith"
+      },
+      "type": "Meeting"
+    },
+    {
+      "id": "cal5",
+      "matter_id": "12345",
+      "subject": "Court Hearing - Motion to Dismiss",
+      "title": "Court Hearing - Motion to Dismiss",
+      "start_at": "2024-02-25T10:00:00Z",
+      "due_date": "2024-02-25",
+      "assigned_to": {
+        "id": "user1",
+        "name": "Attorney Smith"
+      },
+      "user": {
+        "id": "user1",
+        "name": "Attorney Smith"
+      },
+      "type": "Court Hearing"
+    },
+    {
+      "id": "cal3",
+      "matter_id": "12346",
+      "subject": "Deposition - Key Witness",
+      "title": "Deposition - Key Witness",
+      "start_at": "2024-02-25T09:00:00Z",
+      "due_date": "2024-02-25",
+      "assigned_to": {
+        "id": "user1",
+        "name": "Attorney Smith"
+      },
+      "user": {
+        "id": "user1",
+        "name": "Attorney Smith"
+      },
+      "type": "Deposition"
+    },
+    {
+      "id": "cal4",
+      "matter_id": "12347",
+      "subject": "Deadline - File Response to Motion",
+      "title": "Deadline - File Response to Motion",
+      "start_at": "2024-02-18T17:00:00Z",
+      "due_date": "2024-02-18",
+      "assigned_to": {
+        "id": "user1",
+        "name": "Attorney Smith"
+      },
+      "user": {
+        "id": "user1",
+        "name": "Attorney Smith"
+      },
+      "type": "Deadline"
+    }
+  ],
+  "meta": {
+    "paging": {
+      "records": 4,
+      "limit": 10,
+      "offset": 0
+    }
+  }
+}
+

@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "clio-agent-bridge": {
+      "url": "https://clio-mcp.th3-sh0p.com/api/mcp/sse?sessionId=YOUR_SESSION_ID_HERE",
+      "transport": "sse"
+    }
+  }
+}
+
+# Or use setup code:
+# Visit: https://clio-mcp.th3-sh0p.com/api/setup/YOUR_SETUP_CODE
+# This will return the full MCP configuration automatically
+

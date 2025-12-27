@@ -1,0 +1,192 @@
+{
+  "data": [
+    {
+      "id": "act1",
+      "matter_id": "12345",
+      "description": "Drafted Motion to Dismiss with supporting memorandum",
+      "date": "2024-02-10",
+      "created_at": "2024-02-10T10:00:00Z",
+      "time_spent": 3.5,
+      "rate": 250.00,
+      "billable_amount": 875.00,
+      "billable": true,
+      "billed": false
+    },
+    {
+      "id": "act2",
+      "matter_id": "12345",
+      "description": "Work",
+      "date": "2024-02-11",
+      "created_at": "2024-02-11T14:30:00Z",
+      "time_spent": 2.0,
+      "rate": 250.00,
+      "billable_amount": 500.00,
+      "billable": true,
+      "billed": false
+    },
+    {
+      "id": "act3",
+      "matter_id": "12345",
+      "description": "Review",
+      "date": "2024-02-12",
+      "created_at": "2024-02-12T09:15:00Z",
+      "time_spent": 1.5,
+      "rate": 250.00,
+      "billable_amount": 375.00,
+      "billable": true,
+      "billed": false
+    },
+    {
+      "id": "act4",
+      "matter_id": "12345",
+      "description": "Prepared comprehensive discovery responses including interrogatories and document requests",
+      "date": "2024-02-13",
+      "created_at": "2024-02-13T11:00:00Z",
+      "time_spent": 4.0,
+      "rate": 250.00,
+      "billable_amount": 1000.00,
+      "billable": true,
+      "billed": false
+    },
+    {
+      "id": "act5",
+      "matter_id": "12345",
+      "description": "Call",
+      "date": "2024-02-14",
+      "created_at": "2024-02-14T15:20:00Z",
+      "time_spent": 0.5,
+      "rate": 250.00,
+      "billable_amount": 125.00,
+      "billable": true,
+      "billed": false
+    },
+    {
+      "id": "act14",
+      "matter_id": "12345",
+      "description": "miscellaneous",
+      "date": "2024-02-15",
+      "created_at": "2024-02-15T10:00:00Z",
+      "time_spent": 1.0,
+      "rate": 250.00,
+      "billable_amount": 250.00,
+      "billable": true,
+      "billed": false
+    },
+    {
+      "id": "act15",
+      "matter_id": "12345",
+      "description": "miscellaneous work",
+      "date": "2024-02-16",
+      "created_at": "2024-02-16T10:00:00Z",
+      "time_spent": 0.5,
+      "rate": 250.00,
+      "billable_amount": 125.00,
+      "billable": true,
+      "billed": false
+    },
+    {
+      "id": "act6",
+      "matter_id": "12346",
+      "description": "Drafted settlement agreement and release",
+      "date": "2024-02-08",
+      "created_at": "2024-02-08T13:45:00Z",
+      "time_spent": 2.5,
+      "rate": 300.00,
+      "billable_amount": 750.00,
+      "billable": true,
+      "billed": false
+    },
+    {
+      "id": "act7",
+      "matter_id": "12346",
+      "description": "Meeting",
+      "date": "2024-02-09",
+      "created_at": "2024-02-09T10:00:00Z",
+      "time_spent": 1.0,
+      "rate": 300.00,
+      "billable_amount": 300.00,
+      "billable": true,
+      "billed": false
+    },
+    {
+      "id": "act8",
+      "matter_id": "12347",
+      "description": "Research",
+      "date": "2024-02-11",
+      "created_at": "2024-02-11T16:00:00Z",
+      "time_spent": 3.0,
+      "rate": 275.00,
+      "billable_amount": 825.00,
+      "billable": true,
+      "billed": false
+    },
+    {
+      "id": "act9",
+      "matter_id": "12347",
+      "description": "Conducted legal research on wrongful termination claims under state employment law",
+      "date": "2024-02-12",
+      "created_at": "2024-02-12T09:30:00Z",
+      "time_spent": 5.0,
+      "rate": 275.00,
+      "billable_amount": 1375.00,
+      "billable": true,
+      "billed": false
+    },
+    {
+      "id": "act10",
+      "matter_id": "12348",
+      "description": "Prep",
+      "date": "2024-02-10",
+      "created_at": "2024-02-10T14:00:00Z",
+      "time_spent": 2.0,
+      "rate": 200.00,
+      "billable_amount": 400.00,
+      "billable": true,
+      "billed": false
+    },
+    {
+      "id": "act11",
+      "matter_id": "12348",
+      "description": "Prepared client for deposition including review of key documents and potential questions",
+      "date": "2024-02-11",
+      "created_at": "2024-02-11T10:30:00Z",
+      "time_spent": 3.5,
+      "rate": 200.00,
+      "billable_amount": 700.00,
+      "billable": true,
+      "billed": false
+    },
+    {
+      "id": "act12",
+      "matter_id": "12349",
+      "description": "Email",
+      "date": "2024-02-12",
+      "created_at": "2024-02-12T11:15:00Z",
+      "time_spent": 0.25,
+      "rate": 225.00,
+      "billable_amount": 56.25,
+      "billable": true,
+      "billed": false
+    },
+    {
+      "id": "act13",
+      "matter_id": "12349",
+      "description": "Drafted and filed motion for summary judgment with supporting brief",
+      "date": "2024-02-13",
+      "created_at": "2024-02-13T09:00:00Z",
+      "time_spent": 6.0,
+      "rate": 225.00,
+      "billable_amount": 1350.00,
+      "billable": true,
+      "billed": false
+    }
+  ],
+  "meta": {
+    "paging": {
+      "records": 13,
+      "limit": 500,
+      "offset": 0
+    }
+  }
+}
+

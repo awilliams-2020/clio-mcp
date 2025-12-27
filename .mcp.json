@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "clio-agent-bridge": {
+      "url": "https://clio-mcp.th3-sh0p.com/api/mcp/sse",
+      "transport": "sse"
+    }
+  }
+}
+

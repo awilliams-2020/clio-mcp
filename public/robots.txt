@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /api/
+Disallow: /dashboard
+Disallow: /api/auth/
+Disallow: /api/mcp/
+
+# Allow indexing of main pages
+Allow: /
+Allow: /$
+

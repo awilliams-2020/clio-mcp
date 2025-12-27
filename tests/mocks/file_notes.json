@@ -1,0 +1,87 @@
+{
+  "data": [
+    {
+      "id": "fn1",
+      "matter_id": "12345",
+      "note": "Client called to discuss settlement offer. Reviewed terms and advised client on next steps.",
+      "created_at": "2024-02-14T16:00:00Z",
+      "date": "2024-02-14",
+      "created_by": {
+        "id": "user1",
+        "name": "Attorney Smith"
+      },
+      "user": {
+        "id": "user1",
+        "name": "Attorney Smith"
+      }
+    },
+    {
+      "id": "fn2",
+      "matter_id": "12345",
+      "note": "Received discovery responses from opposing counsel. Need to review and prepare follow-up requests.",
+      "created_at": "2024-02-13T10:30:00Z",
+      "date": "2024-02-13",
+      "created_by": {
+        "id": "user1",
+        "name": "Attorney Smith"
+      },
+      "user": {
+        "id": "user1",
+        "name": "Attorney Smith"
+      }
+    },
+    {
+      "id": "fn3",
+      "matter_id": "12345",
+      "note": "Court hearing scheduled for March 15, 2024. Client notified and preparation materials sent.",
+      "created_at": "2024-02-12T14:20:00Z",
+      "date": "2024-02-12",
+      "created_by": {
+        "id": "user1",
+        "name": "Attorney Smith"
+      },
+      "user": {
+        "id": "user1",
+        "name": "Attorney Smith"
+      }
+    },
+    {
+      "id": "fn4",
+      "matter_id": "12345",
+      "note": "Deposition of key witness completed. Transcript received and reviewed.",
+      "created_at": "2024-02-11T15:45:00Z",
+      "date": "2024-02-11",
+      "created_by": {
+        "id": "user1",
+        "name": "Attorney Smith"
+      },
+      "user": {
+        "id": "user1",
+        "name": "Attorney Smith"
+      }
+    },
+    {
+      "id": "fn5",
+      "matter_id": "12345",
+      "note": "Initial client consultation completed. Case intake forms submitted.",
+      "created_at": "2024-02-10T09:00:00Z",
+      "date": "2024-02-10",
+      "created_by": {
+        "id": "user1",
+        "name": "Attorney Smith"
+      },
+      "user": {
+        "id": "user1",
+        "name": "Attorney Smith"
+      }
+    }
+  ],
+  "meta": {
+    "paging": {
+      "records": 5,
+      "limit": 5,
+      "offset": 0
+    }
+  }
+}
+

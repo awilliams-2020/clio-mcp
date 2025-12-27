@@ -1,0 +1,201 @@
+{
+  "data": [
+    {
+      "id": "12345",
+      "display_number": "2024-001",
+      "number": "2024-001",
+      "description": "Personal Injury - Motor Vehicle Accident",
+      "status": "Open",
+      "practice_area": {
+        "id": "pa1",
+        "name": "Personal Injury"
+      },
+      "custom_fields": [
+        {
+          "id": "cf1",
+          "name": "Date of Accident",
+          "value": "2024-01-15"
+        },
+        {
+          "id": "cf2",
+          "name": "Opposing Counsel",
+          "value": "Smith & Associates"
+        },
+        {
+          "id": "cf3",
+          "name": "Insurance Company",
+          "value": "State Farm Insurance"
+        }
+      ],
+      "contacts": [
+        {
+          "id": "rel1",
+          "contact_id": "contact1",
+          "name": "John Doe",
+          "role": "Client",
+          "relationship_type": "Client"
+        },
+        {
+          "id": "rel2",
+          "contact_id": "contact5",
+          "name": "Jane Smith",
+          "role": "Opposing Party",
+          "relationship_type": "Opposing Party"
+        }
+      ],
+      "created_at": "2024-01-20T10:00:00Z",
+      "updated_at": "2024-02-15T14:30:00Z"
+    },
+    {
+      "id": "12346",
+      "display_number": "2024-002",
+      "number": "2024-002",
+      "description": "Contract Dispute - Breach of Contract",
+      "status": "Open",
+      "practice_area": {
+        "id": "pa2",
+        "name": "Commercial Litigation"
+      },
+      "custom_fields": [
+        {
+          "id": "cf4",
+          "name": "Contract Date",
+          "value": "2023-06-10"
+        },
+        {
+          "id": "cf5",
+          "name": "Opposing Counsel",
+          "value": "Johnson Legal Group"
+        }
+      ],
+      "contacts": [
+        {
+          "id": "rel3",
+          "contact_id": "contact2",
+          "name": "Acme Corporation",
+          "role": "Client",
+          "relationship_type": "Client"
+        }
+      ],
+      "created_at": "2024-01-25T09:15:00Z",
+      "updated_at": "2024-02-10T11:20:00Z"
+    },
+    {
+      "id": "12347",
+      "display_number": "2024-003",
+      "number": "2024-003",
+      "description": "Employment Law - Wrongful Termination",
+      "status": "Open",
+      "practice_area": {
+        "id": "pa3",
+        "name": "Employment Law"
+      },
+      "custom_fields": [
+        {
+          "id": "cf6",
+          "name": "Termination Date",
+          "value": "2024-01-30"
+        },
+        {
+          "id": "cf7",
+          "name": "Opposing Counsel",
+          "value": "Williams & Partners"
+        }
+      ],
+      "contacts": [
+        {
+          "id": "rel4",
+          "contact_id": "contact3",
+          "name": "Robert Johnson",
+          "role": "Client",
+          "relationship_type": "Client"
+        },
+        {
+          "id": "rel5",
+          "contact_id": "contact6",
+          "name": "TechCorp Inc",
+          "role": "Opposing Party",
+          "relationship_type": "Opposing Party"
+        }
+      ],
+      "created_at": "2024-02-01T08:30:00Z",
+      "updated_at": "2024-02-14T16:45:00Z"
+    },
+    {
+      "id": "12348",
+      "display_number": "2024-004",
+      "number": "2024-004",
+      "description": "Family Law - Divorce Proceedings",
+      "status": "Open",
+      "practice_area": {
+        "id": "pa4",
+        "name": "Family Law"
+      },
+      "custom_fields": [
+        {
+          "id": "cf8",
+          "name": "Marriage Date",
+          "value": "2015-05-20"
+        },
+        {
+          "id": "cf9",
+          "name": "Opposing Counsel",
+          "value": "Davis Law Firm"
+        }
+      ],
+      "contacts": [
+        {
+          "id": "rel6",
+          "contact_id": "contact4",
+          "name": "Sarah Williams",
+          "role": "Client",
+          "relationship_type": "Client"
+        }
+      ],
+      "created_at": "2024-02-05T13:00:00Z",
+      "updated_at": "2024-02-12T10:15:00Z"
+    },
+    {
+      "id": "12349",
+      "display_number": "2024-005",
+      "number": "2024-005",
+      "description": "Real Estate - Property Dispute",
+      "status": "Open",
+      "practice_area": {
+        "id": "pa5",
+        "name": "Real Estate"
+      },
+      "custom_fields": [
+        {
+          "id": "cf10",
+          "name": "Property Address",
+          "value": "123 Main Street, Anytown, ST 12345"
+        },
+        {
+          "id": "cf11",
+          "name": "Opposing Counsel",
+          "value": "Brown & Associates"
+        }
+      ],
+      "contacts": [
+        {
+          "id": "rel7",
+          "contact_id": "contact7",
+          "name": "Michael Brown",
+          "role": "Client",
+          "relationship_type": "Client"
+        }
+      ],
+      "created_at": "2024-02-08T11:30:00Z",
+      "updated_at": "2024-02-13T09:00:00Z"
+    }
+  ],
+  "meta": {
+    "paging": {
+      "records": 5,
+      "limit": 50,
+      "offset": 0
+    }
+  }
+}
+
