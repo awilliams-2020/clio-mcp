@@ -234,7 +234,8 @@ export async function createClioClient(request?: Request): Promise<ClioClient | 
   }
   
   if (!token) {
-    throw new Error('Clio token not found. Please authenticate first via https://clio-mcp.th3-sh0p.com and get a session ID from /api/auth/session');
+    const appUrl = process.env.NEXT_PUBLIC_APP_URL || 'http://localhost:3000';
+    throw new Error(`Clio token not found. Please authenticate first via ${appUrl} and get a session ID from /api/auth/session`);
   }
 
   return new ClioClient(token);

@@ -32,7 +32,7 @@ export async function GET(request: Request) {
     return NextResponse.json(
       { 
         error: error instanceof Error ? error.message : 'Failed to create session',
-        hint: 'Please authenticate via https://clio-mcp.th3-sh0p.com first'
+        hint: `Please authenticate via ${process.env.NEXT_PUBLIC_APP_URL || 'http://localhost:3000'} first`
       },
       { status: 401 }
     );
@@ -70,7 +70,7 @@ export async function POST(request: Request) {
     return NextResponse.json(
       { 
         error: error instanceof Error ? error.message : 'Failed to create session',
-        hint: 'Please authenticate via https://clio-mcp.th3-sh0p.com first'
+        hint: `Please authenticate via ${process.env.NEXT_PUBLIC_APP_URL || 'http://localhost:3000'} first`
       },
       { status: 401 }
     );

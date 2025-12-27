@@ -7,7 +7,7 @@ export async function GET() {
     
     if (!token) {
       return NextResponse.json(
-        { error: 'Not authenticated. Please visit https://clio-mcp.th3-sh0p.com to authenticate first.' },
+        { error: `Not authenticated. Please visit ${process.env.NEXT_PUBLIC_APP_URL || 'http://localhost:3000'} to authenticate first.` },
         { status: 401 }
       );
     }
